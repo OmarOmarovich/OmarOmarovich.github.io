@@ -1,0 +1,167 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1217px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 30px auto 0 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 30px;
+  margin-bottom: 60px;
+  margin-left: 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 469px;
+  background-image: url("images/1280px-Kaiseradler_Aquila_heliaca_4_amk.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 469px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  margin-top: 0;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 434px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-1 .u-text-5 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 830px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -128px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 149px;
+    position: relative;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 387px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 387px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 358px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 673px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -285px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 306px;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 296px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1374px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 416px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: -395px;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 444px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 925px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -33px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 67px;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 280px;
+  }
+}
